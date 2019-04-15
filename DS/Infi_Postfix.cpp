@@ -73,7 +73,6 @@ string Infix_Postfix(string I){
         }
         else{
              p += x;
-            //cout << p;
         }
    }
     return p;
